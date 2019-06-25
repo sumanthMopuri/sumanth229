@@ -1,0 +1,13 @@
+l1=['a','b','c',"btech",'bcom',"bsc",22,21,23]
+Name={"p1":l1[0],'p2':l1[1],'p3':l1[2]}
+course={'p1':l1[3],'p2':l1[4],'p3':l1[5]}
+age={'p1':l1[6],'p2':l1[7],'p3':l1[8]}
+print(Name["p1"])
+print(course['p1'])
+print(age['p1'])
+print(Name["p2"])
+print(course['p2'])
+print(age['p2'])
+print(Name["p3"])
+print(course['p3'])
+print(age)
